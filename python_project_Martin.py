@@ -7,3 +7,6 @@ Created on Mon Feb 27 14:30:05 2023
 """
 
 print ("hello my team - I am Lucie")
+
+
+print ("hello my team, how are you? - it is me guigui")
