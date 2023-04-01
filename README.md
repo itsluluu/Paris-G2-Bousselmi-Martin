@@ -1,4 +1,4 @@
-# Paris-G2-Bousselmi-Martin-Siegelin
+# Paris-G2-Bousselmi-Siegelin
 
 MACZYNSKI Camille / MARTIN Lucie / MENUET Guillaume / SIEGELIN Adrien
 
